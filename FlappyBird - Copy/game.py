@@ -1,3 +1,10 @@
+"""
+This is code by Dmitriy Zhemkov
+
+It is a recreation of the famous game Flappy Bird
+
+"""
+
 import sys
 import os
 import pygame
